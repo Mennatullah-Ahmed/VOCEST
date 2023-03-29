@@ -1,0 +1,70 @@
+/* FROM 9 TO 12 */
+/* assignment 1 */
+
+.as1 {
+    display: inline-block;
+    
+  }
+  
+  .assign-1-shape-1 {
+    border: 5px red solid;
+    outline: 5px black solid;
+    padding: 10px;
+    margin: 10px;
+
+
+  }
+
+  .assign-1-shape-2 {
+    border-width: 5px;
+    border-color: blue green;
+    border-style: solid;
+    outline: 5px black solid;
+    padding: 10px;
+    margin: 10px;
+
+
+  }
+
+  .assign-1-shape-3{
+    background-color: #eee;
+    border-width: 5px;
+    border-color: red green blue yellow;
+    border-style: dashed;
+    outline: 5px black solid;
+    padding: 10px;
+    margin: 10px;
+
+
+
+  }
+
+
+  /* assignment 2 */
+    
+  .assign-2-shape-1 {
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    border-left: 5px red solid;
+
+
+  }
+
+  .assign-2-shape-2 {
+    visibility: hidden;
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    border-left: 5px red solid;
+
+  }
+
+  .assign-2-shape-3{
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    border-left: 5px red solid;
+
+
+  }
